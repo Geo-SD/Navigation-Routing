@@ -1,7 +1,7 @@
 import React from 'react';
 import {Button, SafeAreaView} from 'react-native';
-import Todoform from '../../Components/todoform';
-import Todolist from '../../Components/todolist';
+import Todoform from '../Components/todoform';
+import Todolist from '../Components/todolist';
 import MainLayout from '../layouts/MainLayout';
 
 function HomeScreen({navigation}) {
